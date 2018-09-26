@@ -1,0 +1,276 @@
+@media (min-width: 992px) {
+   
+ 
+body{
+    width: 1000px;
+    height: auto;
+    margin-left: 15%;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.left{
+    
+    width: 38%;
+    height: 1500px;
+    float: left;
+}
+.right{
+  
+    width: 58%;
+    height: 1500px;
+    float: right;
+}
+.box1{
+   
+    float: left;
+    width: 100%;
+    height: 450px;
+
+}
+.img{
+    margin-top: 60px;
+   margin-left: 110px;
+    height: 150px;
+    width: 150px;
+   border: blue solid 3px ;
+   border-radius:  150px;
+   
+}
+.img:hover{
+    margin-top: 60px;
+   margin-left: 110px;
+    height: 150px;
+    width: 150px;
+   border: red solid 3px ;
+   border-radius:  200px;
+   
+}
+.profile{
+    
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.ppr{
+    color: blue;
+    font-size: 30px;
+    margin-top: 19px;
+}
+.hr{
+   height: 5px;
+   width: 140px;
+   background-color: blue;
+   float: right;
+   margin-top: -50px;
+}
+.hr1{
+    height: 5px;
+    width: 140px;
+    background-color: blue;
+    float: right;
+    margin-top: -50px;
+ }
+ .hr5{
+    
+        height: 5px;
+        width: 280px;
+        background-color: blue;
+        float: right;
+        margin-top: -50px;
+     
+ }
+.Lorem{
+    margin-left: 15px;
+}
+.Lorem:hover{
+    margin-left: 15px;
+    background-color: rgb(169, 255, 164);
+    border-radius: 20px;
+    height: 250px;
+    font-size: 17px;
+}
+.imgprofile{
+    margin-left: 15px;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-right: 3px;
+  
+}
+.box3{
+   
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.box4{
+    background-color:yellow; 
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.box5{
+    
+    float: left;
+    width: 100%;
+    height: 800px;
+
+}
+.mast{
+   
+    width: 100%;
+    height: 170px;
+
+}
+.mast:hover{
+   
+    width: 100%;
+    height: 175px;
+    background-color: rgb(169, 255, 164);
+    border-radius: 30px;
+}
+.kol{
+    background-color: black;
+    border-radius: 35px;
+    height: 25px;
+    width: 25px;
+}
+.h4m{
+    float: left;
+    font-size: 20px;
+    color: blue;
+    margin-top: -4%;
+    margin-left: 5%;
+}
+.h4m1{
+    float: left;
+    font-size: 18px;
+    color: black;
+    margin-top: -4%;
+    margin-left: 4.5%;
+}
+.pu{
+   float: left;
+    font-size: 17px;
+    color:black;
+    margin-top: 0%;
+    margin-left: -30%;
+
+}
+.lo{
+    float: left;
+  
+    color:black;
+    margin-top: 0%;
+    margin-left: 5%;
+  
+
+}
+.feb{
+  float: right;
+     color: black;
+     margin-right: 38%;
+     margin-top: -3.5%;
+     font-size: 15px;
+ }
+.box6{
+    
+    float: left;
+    width: 100%;
+    height: 600px;
+}
+.box7{
+ background-color: white;
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.box77{
+    width: 50%;
+    height: 100%;
+    
+    float: left;
+
+
+}
+.box777{
+    width: 50%;
+    height: 100%;
+ 
+    float: right;
+}
+
+
+
+
+
+
+}
+.p1{
+    text-align: center;
+    font-size: 30px;
+}
+.p2{
+    text-align: center;
+    font-size: 20px; 
+    margin-top: -25px;
+}
+.boxe{
+    width: 30%;
+    height: 70%;
+    float: left;
+  
+}
+.boxe1{
+    width: 70%;
+    height: 70%;
+    float: right;
+   
+}
+.bl{
+    color: blue;
+    font-size: 20px;
+    float: left;
+}
+.bl1{
+  color: black;
+  font-size: 20px;
+  padding: 9px;
+  margin-top: 9px;
+
+}
+.shr{
+    font-size: 23px;
+}
+
+
+
+input[type=range] {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 260px;
+	height: 20px;
+	padding: 0;
+   /* box-shadow: inset 1 1 1 10px #2D7CFA;*/
+	background: rgb(242, 242, 242);
+    overflow: hidden;
+    margin-top: -50px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	width:20px;
+	height:22px;
+    border-radius: 70%/30%;
+   
+	
+	background: rgb(33, 0, 198);
+	box-shadow:
+	-13px 0 rgb(33, 0, 198), -26px 0 rgb(33, 0, 198), -39px 0 rgb(33, 0, 198),
+	-52px 0 rgb(33, 0, 198), -65px 0 rgb(33, 0, 198), -78px 0 rgb(33, 0, 198),
+	-91px 0 rgb(33, 0, 198), -104px 0 rgb(33, 0, 198), -117px 0 rgb(33, 0, 198),
+	-130px 0 rgb(33, 0, 198), -143px 0 rgb(33, 0, 198), -156px 0 rgb(33, 0, 198),
+	-169px 0 rgb(33, 0, 198), -182px 0 rgb(33, 0, 198), -195px 0 rgb(33, 0, 198),
+	-208px 0 rgb(33, 0, 198), -221px 0 rgb(33, 0, 198), -234px 0 rgb(33, 0, 198),
+	-247px 0 rgb(33, 0, 198), -260px 0 rgb(33, 0, 198);
+} 
